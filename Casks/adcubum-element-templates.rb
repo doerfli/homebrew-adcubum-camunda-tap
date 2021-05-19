@@ -7,7 +7,7 @@ cask "adcubum-element-templates" do
   desc "Adcubum specific element templates for the Camunda Modeler"
 
   installer script: {
-    executable:   "#{staged_path}/install.sh",
+    executable: "#{staged_path}/install.sh",
   }
 
   zap trash: [
