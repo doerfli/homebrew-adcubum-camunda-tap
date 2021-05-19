@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install doerfli/adcubum-camunda/<formula>`
+`brew install doerfli/adcubum-camunda-tap/<formula>`
 
-Or `brew tap doerfli/adcubum-camunda` and then `brew install <formula>`.
+Or `brew tap doerfli/adcubum-camunda-tap` and then `brew install <formula>`.
 
 ## Documentation
 
