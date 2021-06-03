@@ -2,7 +2,7 @@ cask "adcubum-camunda-modeler" do
   version :latest
   sha256 :no_check
 
-  url "https://github.com/doerfli/homebrew-adcubum-camunda-tap/raw/feature/plugins/Zips/hello-world.zip"
+  url "https://github.com/doerfli/homebrew-adcubum-camunda-tap/raw/main/Zips/hello-world.zip"
   name "Adcubum Camunda Modeler package"
   desc "Camunda Modeler for Adcubum with element templates and plugins"
 
