@@ -1,6 +1,6 @@
 cask "camunda-modeler-plugin-linter" do
   version "0.6.0"
-  sha256 "9bd31866a45a03c41cc5fe02f550ff9ef1be4f738f9f57819faa8820836d5160"
+  sha256 "501447e4e34a426780b69dc93896f8151598cb992a534500cad83eacf8f3f3e1"
 
   url "https://github.com/doerfli/homebrew-adcubum-camunda-tap/raw/main/Zips/camunda-modeler-linter-plugin-0.6.0.zip"
   name "Camunda Modeler linter plugin"
