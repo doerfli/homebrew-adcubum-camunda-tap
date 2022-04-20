@@ -1,8 +1,8 @@
 cask "adcubum-element-templates" do
-  version "1.0.1"
-  sha256 "77222bfe4306648f0f7c0d035342e1b6634fab9a0477204ba3a37e30135f579f"
+  version "1.1.0"
+  sha256 "b012029ab4cc62082514f08983f0fc0ac99f199567a72323d8b45f0d08cfc3a9"
 
-  url "https://github.com/doerfli/adcubum-camunda/raw/main/Zips/camunda-modeler-element-templates-1.0.1@a2afb0aff9b.zip"
+  url "https://github.com/doerfli/adcubum-camunda/raw/main/Zips/camunda-modeler-element-templates-1.1.0@b9f5b9865ea.zip"
   name "Camunda Modeler Adcubum element templates"
   desc "Adcubum specific element templates for the Camunda Modeler"
 
