@@ -1,6 +1,6 @@
 cask "camunda-modeler-plugin-bpmn-js-token-simulation" do
   version "0.16.0"
-  sha256 "4c7d51daeae8dda561edf2afc65815b88225f342f2a9f2bdd2e6bc37d3ae1cb4"
+  sha256 "f80e1b71194dc07cad4cdd13cfb9b50ba15e6698e02d1a8b8288dc5f98390bd7"
 
   url "https://github.com/doerfli/homebrew-adcubum-camunda-tap/raw/main/Zips/bpmn-js-token-simulation-plugin-0.16.0.zip"
   name "Camunda Modeler plugin bpmn js token simulation"
