@@ -11,6 +11,6 @@ cask "camunda-modeler-plugin-bpmn-js-token-simulation" do
   }
 
   zap trash: [
-    "~/Library/Application\ Support/camunda-modeler/resources/plugins/bpmn-js-token-simulation-plugin",
+    "~/Library/Application\ Support/camunda-modeler/plugins/bpmn-js-token-simulation-plugin",
   ]
 end
