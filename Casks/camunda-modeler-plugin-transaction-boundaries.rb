@@ -11,6 +11,6 @@ cask "camunda-modeler-plugin-transaction-boundaries" do
   }
 
   zap trash: [
-    "~/Library/Application\ Support/camunda-modeler/resources/plugins/camunda-transaction-boundaries-plugin",
+    "~/Library/Application\ Support/camunda-modeler/plugins/camunda-transaction-boundaries-plugin",
   ]
 end
