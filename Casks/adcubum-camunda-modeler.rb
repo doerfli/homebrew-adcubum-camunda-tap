@@ -10,5 +10,4 @@ cask "adcubum-camunda-modeler" do
   depends_on cask: "doerfli/adcubum-camunda-tap/adcubum-element-templates"
   depends_on cask: "doerfli/adcubum-camunda-tap/camunda-modeler-plugin-bpmn-js-token-simulation"
   depends_on cask: "doerfli/adcubum-camunda-tap/camunda-modeler-plugin-transaction-boundaries"
-  depends_on cask: "doerfli/adcubum-camunda-tap/camunda-modeler-plugin-linter"
 end
